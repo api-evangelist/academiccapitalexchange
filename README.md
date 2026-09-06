@@ -64,5 +64,13 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Academiccapitalexchange is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://equityzen.com/company/academiccapitalexchange
+Academic Capital Exchange (ACE) was a Chicago, Illinois online peer-to-peer student loan marketplace
+founded in 2008 by Shawn Bercuson, matching student borrowers directly with individual lenders. It
+never operated a developer portal, published a machine-readable API contract, or shipped SDKs, and no
+GitHub organization under the company name exists. The company is no longer operating: its host
+`academiccapitalexchange.com` is unregistered (whois "No match", DNS NXDOMAIN, checked 2026-09-06),
+as are the `.net`, `.co` and `.io` labels, and the Internet Archive holds a single snapshot of the
+site from February 2008. This profile is retained as a historical record; there is no API surface to
+enrich.
+
+- Secondary-market listing (a trading venue, not the company's own site): https://equityzen.com/company/academiccapitalexchange/
