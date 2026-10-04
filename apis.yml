@@ -38,7 +38,7 @@ modified: '2026-09-06'
 tags:
 - Company
 - Defunct
-- Financial-Services
+- Financial Services
 - Lending
 - Student Loans
 - Peer-to-Peer Lending
@@ -53,6 +53,7 @@ tags_raw:
 - Peer to Peer Lending
 - Education Finance
 - Marketplace
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
