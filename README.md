@@ -1,4 +1,4 @@
-# Academiccapitalexchange
+# Academic Capital Exchange
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,13 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Academic Capital Exchange (ACE) was a Chicago, Illinois online peer-to-peer student loan marketplace
-founded in 2008 by Shawn Bercuson, matching student borrowers directly with individual lenders. It
-never operated a developer portal, published a machine-readable API contract, or shipped SDKs, and no
-GitHub organization under the company name exists. The company is no longer operating: its host
-`academiccapitalexchange.com` is unregistered (whois "No match", DNS NXDOMAIN, checked 2026-09-06),
-as are the `.net`, `.co` and `.io` labels, and the Internet Archive holds a single snapshot of the
-site from February 2008. This profile is retained as a historical record; there is no API surface to
-enrich.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-- Secondary-market listing (a trading venue, not the company's own site): https://equityzen.com/company/academiccapitalexchange/
+Academic Capital Exchange (ACE) was a Chicago, Illinois online peer-to-peer student loan marketplace founded in 2008 by Shawn Bercuson, built to link students to the financial support and professional guidance needed to succeed in the classroom and beyond by matching student borrowers directly with individual lenders rather than routing them through a bank or a federal loan servicer. It followed CapAlly, an earlier peer-to-peer student lending marketplace and social network the same founder started in 2007 and sold before taking it to market. ACE was a consumer-facing lending marketplace, not a developer platform: it never operated a developer portal, never published a machine-readable API contract, and never shipped client SDKs, and no GitHub organization under the company name exists. The company is no longer operating. Its host academiccapitalexchange.com is not merely offline but entirely unregistered — whois returns "No match" and DNS returns NXDOMAIN for the .com, .net, .co and .io labels — and the Internet Archive holds a single snapshot of the site, from February 2008. The only surviving public record of the company is a secondary-market listing page on EquityZen, which is a trading venue and not the company's own web presence, so it is deliberately not wired as a Website pointer. This profile is retained as a historical record; there is no API surface to enrich.
+
+**Areas:** Company · Defunct · Financial Services · Lending · Student Loans · Peer-to-Peer Lending · Education Finance · Marketplace
+
+## Academic Capital Exchange on APIs.io (historical record)
+
+Everything profiled for Academic Capital Exchange is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/academiccapitalexchange/](https://apis.io/providers/academiccapitalexchange/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Academic Capital Exchange: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/academiccapitalexchange/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
